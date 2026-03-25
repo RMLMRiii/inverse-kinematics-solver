@@ -7,7 +7,7 @@ A Python tool for solving 2D inverse kinematics for a two-link robotic arm.
 - Uses two-link robotic arm geometry
 - Organized function-based structure
 - Includes sample target position data
-- Separate target data viewer
+- Separate target position viewer
 
 ## Technologies Used
 - Python
